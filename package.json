@@ -48,6 +48,10 @@
     "sinon": "^1.15.4",
     "webpack": "^1.12.1"
   },
+  "peerDependencies": {
+    "react-router": "^1.0.0",
+    "history": "^1.9.0"
+  },
   "dependencies": {
     "deep-equal": "^1.0.1"
   }
